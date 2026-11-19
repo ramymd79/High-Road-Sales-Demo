@@ -1,9 +1,7 @@
-# HIGH ROAD | Sales Management — public demonstration
+# HIGH ROAD — browser demonstration
 
-Synthetic browser-only demo. No real accounts, passwords, invitations, database, cloud storage or company connection. Do not enter real personal or business data. Persona selection previews UI behavior, not security or commercial authority.
+Fictional data only. No real accounts, database, company connection or approved business documents. Changes are saved only in this browser.
 
-Changes stay in this browser; no cross-device sync. Reset changes only this demo namespace. All documents are marked synthetic. Advanced approvals/corrections and full multi-supplier purchasing require the real system.
+This corrected preview reuses the actual application presentation with browser-only adapters. Identity/invitations require a server; advanced business paths remain a bounded simulation. Persona selection previews the UI and is never a security boundary.
 
-The published assets are built for `/High-Road-Sales-Demo/`. Serve only these reviewed static files with HTTPS. Keep `.nojekyll`. Do not add environment files, logs, source maps or original application build output.
-
-Copyright and branding remain with their respective owners. See THIRD_PARTY_NOTICES.txt for included framework licenses.
+Static base path: /High-Road-Sales-Demo/ . Do not enter real information. See THIRD_PARTY_NOTICES.txt.
